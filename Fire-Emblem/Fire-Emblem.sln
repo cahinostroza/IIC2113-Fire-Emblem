@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire-Emblem", "Fire-Emblem\Fire-Emblem.csproj", "{5CB2836D-271B-4A0E-AC70-E061DC7A7004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire-Emblem-View", "Fire-Emblem-View\Fire-Emblem-View.csproj", "{E4B9FC15-6254-451E-9D5F-7A28E3C31C85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire-Emblem.Tests", "Fire-Emblem.Tests\Fire-Emblem.Tests.csproj", "{93BAF9D2-74AD-4FCA-8AD7-E543C86BA529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CB2836D-271B-4A0E-AC70-E061DC7A7004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB2836D-271B-4A0E-AC70-E061DC7A7004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB2836D-271B-4A0E-AC70-E061DC7A7004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB2836D-271B-4A0E-AC70-E061DC7A7004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B9FC15-6254-451E-9D5F-7A28E3C31C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B9FC15-6254-451E-9D5F-7A28E3C31C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B9FC15-6254-451E-9D5F-7A28E3C31C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B9FC15-6254-451E-9D5F-7A28E3C31C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93BAF9D2-74AD-4FCA-8AD7-E543C86BA529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BAF9D2-74AD-4FCA-8AD7-E543C86BA529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BAF9D2-74AD-4FCA-8AD7-E543C86BA529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BAF9D2-74AD-4FCA-8AD7-E543C86BA529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
