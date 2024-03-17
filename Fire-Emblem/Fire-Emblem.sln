@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire-Emblem", "Fire-Emblem\Fire-Emblem.csproj", "{5CB2836D-271B-4A0E-AC70-E061DC7A7004}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire-Emblem", "Fire-Emblem\Fire-Emblem.csproj", "{F16EC73B-D117-4A32-A42D-E11794CB0029}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire-Emblem-View", "Fire-Emblem-View\Fire-Emblem-View.csproj", "{E4B9FC15-6254-451E-9D5F-7A28E3C31C85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire-Emblem.Tests", "Fire-Emblem.Tests\Fire-Emblem.Tests.csproj", "{9FBCF5A4-C132-4338-ABE6-9AD9584A5F74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire-Emblem.Tests", "Fire-Emblem.Tests\Fire-Emblem.Tests.csproj", "{93BAF9D2-74AD-4FCA-8AD7-E543C86BA529}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire-Emblem-View", "Fire-Emblem-View\Fire-Emblem-View.csproj", "{012820CA-C5EF-40A0-BF5C-FE1386D770E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,17 +12,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5CB2836D-271B-4A0E-AC70-E061DC7A7004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5CB2836D-271B-4A0E-AC70-E061DC7A7004}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5CB2836D-271B-4A0E-AC70-E061DC7A7004}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5CB2836D-271B-4A0E-AC70-E061DC7A7004}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E4B9FC15-6254-451E-9D5F-7A28E3C31C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E4B9FC15-6254-451E-9D5F-7A28E3C31C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E4B9FC15-6254-451E-9D5F-7A28E3C31C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E4B9FC15-6254-451E-9D5F-7A28E3C31C85}.Release|Any CPU.Build.0 = Release|Any CPU
-		{93BAF9D2-74AD-4FCA-8AD7-E543C86BA529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93BAF9D2-74AD-4FCA-8AD7-E543C86BA529}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93BAF9D2-74AD-4FCA-8AD7-E543C86BA529}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{93BAF9D2-74AD-4FCA-8AD7-E543C86BA529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F16EC73B-D117-4A32-A42D-E11794CB0029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16EC73B-D117-4A32-A42D-E11794CB0029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16EC73B-D117-4A32-A42D-E11794CB0029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16EC73B-D117-4A32-A42D-E11794CB0029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FBCF5A4-C132-4338-ABE6-9AD9584A5F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBCF5A4-C132-4338-ABE6-9AD9584A5F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBCF5A4-C132-4338-ABE6-9AD9584A5F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBCF5A4-C132-4338-ABE6-9AD9584A5F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012820CA-C5EF-40A0-BF5C-FE1386D770E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012820CA-C5EF-40A0-BF5C-FE1386D770E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012820CA-C5EF-40A0-BF5C-FE1386D770E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012820CA-C5EF-40A0-BF5C-FE1386D770E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

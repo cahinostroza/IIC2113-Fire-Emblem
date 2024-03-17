@@ -6,6 +6,7 @@ public class Game
 {
     private View _view;
     private string _teamsFolder;
+    
     public Game(View view, string teamsFolder)
     {
         _view = view;
